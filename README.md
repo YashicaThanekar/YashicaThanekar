@@ -38,4 +38,8 @@ A second-year Computer Engineering student passionate about UI/UX design and fro
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=YashicaThanekar&icon=5&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=YashicaThanekar&icon=5&color=0" alt="Visit Count" />
+  </a>
+</p>
