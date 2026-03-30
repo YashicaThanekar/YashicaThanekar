@@ -30,16 +30,14 @@ A second-year Computer Engineering student passionate about UI/UX design and fro
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashicaThanekar&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashicaThanekar&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=YashicaThanekar&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashicaThanekar&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YashicaThanekar&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=YashicaThanekar&icon=5&color=0" alt="Visit Count" />
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=YashicaThanekar&icon=5&color=0" alt="Visit Count" />
 </p>
