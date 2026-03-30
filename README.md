@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋🏻‍♀️ About Me:
 A second-year Computer Engineering student passionate about UI/UX design and frontend development, currently focused on building full-stack projects to strengthen both design and backend skills. I enjoy creating clean, user-friendly interfaces and turning ideas into functional, real-world applications while continuously learning new technologies.
 
 ---
