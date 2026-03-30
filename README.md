@@ -39,5 +39,5 @@ A second-year Computer Engineering student passionate about UI/UX design and fro
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YashicaThanekar&icon=5&color=0" alt="Visit Count" />
+  <img src="https://komarev.com/ghpvc/?username=YashicaThanekar&label=PROFILE+VIEWS&color=0077b5&style=flat" alt="Yashica's Profile Views" />
 </p>
