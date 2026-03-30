@@ -27,13 +27,19 @@ A second-year Computer Engineering student passionate about UI/UX design and fro
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
-
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashicaThanekar&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashicaThanekar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YashicaThanekar&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashicaThanekar&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashicaThanekar&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 
 ---
 
